@@ -1,3 +1,19 @@
+References
+
+https://threejs.org/docs/
+
+https://docs.pmnd.rs/
+
+
+Tailwind CSS
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

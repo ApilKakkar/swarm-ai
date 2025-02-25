@@ -1,11 +1,13 @@
+import { Canvas} from '@react-three/fiber'
 import './App.css'
+import PlayArea from './components/PlayArea'
 
 function App() {
   return (
     <>
-      <div className='h-[100vh] w-full bg-black text-white text-4xl flex items-center justify-center'>
-        SWARM-AI
-      </div>
+      <Canvas>
+        <PlayArea />
+      </Canvas>
     </>
   )
 }
