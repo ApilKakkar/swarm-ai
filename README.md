@@ -1,18 +1,12 @@
-References
+Tailwind CSS added
+Drei helper added
+
+
+Resources
 
 https://threejs.org/docs/
-
 https://docs.pmnd.rs/
-
-
-Tailwind CSS
-
-
-
-
-
-
-
+https://polyhaven.com/
 
 # React + TypeScript + Vite
 
