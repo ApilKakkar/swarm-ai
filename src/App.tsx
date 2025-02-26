@@ -1,12 +1,12 @@
 import { Canvas} from '@react-three/fiber'
 import './App.css'
-import PlayArea from './components/PlayArea'
+import Game from './Game'
 
 function App() {
   return (
     <>
       <Canvas>
-        <PlayArea />
+        <Game />
       </Canvas>
     </>
   )
